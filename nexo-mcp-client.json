@@ -1,0 +1,8 @@
+{
+  "client_id": "https://adminnovotech.github.io/nexo-mcp-client/nexo-mcp-client.json",
+  "client_name": "NovoTech Nexo (pruebas)",
+  "redirect_uris": ["http://localhost:5174/ajustes/mcp/oauth"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
